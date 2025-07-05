@@ -6,8 +6,8 @@ const Header = () => {
 
   return (
     <header>
-        <nav>
-            
+        <nav className='flex justify text-4xl'>
+            Portfolio
         </nav>
     </header>
   )
